@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kavita Rai
+# Hi 👋, I'm Kavita 
 ### Data Analyst | Aspiring Data Scientist
 
 📍 India  
