@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Kavita Rai
+### Data Analyst | Aspiring Data Scientist
 
-<!--
-**kavita-insights/kavita-insights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 India  
+📧 kavitarai093@gmail.com  
+🔗 https://www.linkedin.com/in/kavitarai-insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a B.Tech Computer Science graduate with hands-on experience in Data Analysis and Machine Learning through a 6-month internship. I enjoy working with data to uncover insights, build predictive models, and solve real-world problems.
+
+- 🎓 B.Tech CSE (2025)  
+- 💼 Internship in Data Analysis & Machine Learning  
+- 📊 Strong in Python, SQL & Data Visualization  
+- 🎯 Seeking opportunities as a Data Analyst / Data Scientist  
+
+---
+
+## 🛠️ Skills
+**Languages:** Python, SQL  
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+**Tools:** Jupyter Notebook, VS Code, PostgreSQL, Excel  
+**Concepts:** Data Analysis, Machine Learning, Data Visualization  
+
+---
+
+## 📌 Projects
+
+### 🔹 Fake News Detection System
+- Built a machine learning model to classify news as real or fake  
+- Used Python, Pandas, Scikit-learn, Streamlit  
+- Implemented preprocessing and feature engineering  
+
+### 🔹 E-commerce Sales Data Analysis
+- Cleaned and analyzed sales data using Excel  
+- Used Pivot Tables to identify trends and insights  
+
+---
+
+## 💼 Internship Experience
+**Ocean Technologies | Jan 2025 – June 2025**
+- Performed data analysis using Pandas, NumPy, Matplotlib  
+- Built machine learning models using Scikit-learn  
+- Worked on Jupyter Notebook and Google Colab  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🤝 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/kavitarai-insights  
+- Email: kavitarai093@gmail.com  
+
+---
+
+⭐ *“Turning data into insights and insights into impact.”*
